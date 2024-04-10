@@ -1,0 +1,35 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "P81212",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -2.3479799996, 53.7367299852, 0 ],
+						[ -2.3569100128, 53.7021899874, 0 ],
+						[ -2.3232700083, 53.6755599788, 0 ],
+						[ -2.3009500127, 53.6755599823, 0 ],
+						[ -2.2906500032, 53.6948799863, 0 ],
+						[ -2.2542600174, 53.6920299985, 0 ],
+						[ -2.3479799996, 53.7367299852, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"ODSCode" : "P81212",
+				"Name" : "Hazelvalley Family Practice",
+				"Region" : "Y62",
+				"ICBCode" : "QE1",
+				"SubICBCode" : "01A",
+				"stroke-opacity" : "1.0",
+				"stroke-width" : "2.0",
+				"fill-opacity" : "0",
+				"stroke" : "#0000ff",
+				"fill" : "#555555"
+			}
+		}
+	]
+}

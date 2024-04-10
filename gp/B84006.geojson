@@ -1,0 +1,35 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "B84006",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -2.0726400384, 53.7430299814, 0 ],
+						[ -2.1363300105, 53.7314499822, 0 ],
+						[ -2.1388999749, 53.7125599797, 0 ],
+						[ -2.1148699913, 53.6869499999, 0 ],
+						[ -2.05290002, 53.6938599716, 0 ],
+						[ -2.0379600195, 53.7192599835, 0 ],
+						[ -2.0726400384, 53.7430299814, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"ODSCode" : "B84006",
+				"Name" : "Todmorden Group Practice",
+				"Region" : "Y63",
+				"ICBCode" : "QWO",
+				"SubICBCode" : "02T",
+				"stroke-opacity" : "1.0",
+				"stroke-width" : "2.0",
+				"fill-opacity" : "0",
+				"stroke" : "#0000ff",
+				"fill" : "#555555"
+			}
+		}
+	]
+}

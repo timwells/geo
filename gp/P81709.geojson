@@ -1,0 +1,35 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "P81709",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -2.4715800072, 53.7742799975, 0 ],
+						[ -2.5375000081, 53.7659599942, 0 ],
+						[ -2.5361300128, 53.7190599861, 0 ],
+						[ -2.4569900162, 53.6628499876, 0 ],
+						[ -2.3675500043, 53.725759989, 0 ],
+						[ -2.4389600273, 53.7710400005, 0 ],
+						[ -2.4715800072, 53.7742799975, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"ODSCode" : "P81709",
+				"Name" : "Roman Road Health Centre",
+				"Region" : "Y62",
+				"ICBCode" : "QE1",
+				"SubICBCode" : "00Q",
+				"stroke-opacity" : "1.0",
+				"stroke-width" : "2.0",
+				"fill-opacity" : "0",
+				"stroke" : "#0000ff",
+				"fill" : "#555555"
+			}
+		}
+	]
+}
